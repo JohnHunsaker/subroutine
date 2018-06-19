@@ -1,4 +1,4 @@
-#MIPS Assembly Programming Practice Exercise - "Subroutine"
+#MIPS Assembly Programming Practice Exercise - Subroutine
 #Written by John Hunsaker
 
 .data
